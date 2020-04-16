@@ -4,8 +4,7 @@
 
 编译二进制文件和镜像
 
-    make native
-    make docker 
+    make 
 
 运行环境：Ubuntu 16.04 TLS
 
